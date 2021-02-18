@@ -1,0 +1,8 @@
+js连接mysql：https://www.runoob.com/nodejs/nodejs-mysql.html
+js写入数据到MySQL：https://www.cnblogs.com/hyd309/archive/2009/02/05/1384775.html
+
+//获取表格行数 
+var rows = document.getElementById("表名称").rows.length; 
+  
+//获取表格列数 
+var cells = document.getElementById("example_table").rows.item(0).cells.length;
